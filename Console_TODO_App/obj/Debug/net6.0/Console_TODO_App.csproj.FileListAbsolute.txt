@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\bin\Debug\net6.0\Console_TODO_App.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\bin\Debug\net6.0\Console_TODO_App.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\bin\Debug\net6.0\Console_TODO_App.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\bin\Debug\net6.0\Console_TODO_App.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\bin\Debug\net6.0\Console_TODO_App.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\refint\Console_TODO_App.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\Console_TODO_App.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_TODO_App\obj\Debug\net6.0\ref\Console_TODO_App.dll

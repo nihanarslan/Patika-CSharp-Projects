@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nihan\\Documents\\Programming Studies\\Sites\\Patika-CSharp-Projects\\Console_PhoneBook\\Console_PhoneBook.csproj",
-      "projectName": "Console_PhoneBook",
-      "projectPath": "C:\\Users\\nihan\\Documents\\Programming Studies\\Sites\\Patika-CSharp-Projects\\Console_PhoneBook\\Console_PhoneBook.csproj",
+      "projectUniqueName": "C:\\Users\\nihan\\Documents\\Programming Studies\\Sites\\Patika-CSharp-Projects\\Console_TODO_App\\Console_TODO_App.csproj",
+      "projectName": "Console_TODO_App",
+      "projectPath": "C:\\Users\\nihan\\Documents\\Programming Studies\\Sites\\Patika-CSharp-Projects\\Console_TODO_App\\Console_TODO_App.csproj",
       "packagesPath": "C:\\Users\\nihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nihan\\Documents\\Programming Studies\\Sites\\Patika-CSharp-Projects\\Console_PhoneBook\\obj\\",
+      "outputPath": "C:\\Users\\nihan\\Documents\\Programming Studies\\Sites\\Patika-CSharp-Projects\\Console_TODO_App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nihan\\AppData\\Roaming\\NuGet\\NuGet.Config"
