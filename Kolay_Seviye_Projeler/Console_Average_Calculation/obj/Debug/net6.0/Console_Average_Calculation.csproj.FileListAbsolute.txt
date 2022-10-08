@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\bin\Debug\net6.0\Console_Average_Calculation.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\bin\Debug\net6.0\Console_Average_Calculation.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\bin\Debug\net6.0\Console_Average_Calculation.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\bin\Debug\net6.0\Console_Average_Calculation.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\bin\Debug\net6.0\Console_Average_Calculation.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\refint\Console_Average_Calculation.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\Console_Average_Calculation.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Console_Average_Calculation\obj\Debug\net6.0\ref\Console_Average_Calculation.dll
