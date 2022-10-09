@@ -1,0 +1,15 @@
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\bin\Debug\net6.0\Console_Drawing_Triangle.exe
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\bin\Debug\net6.0\Console_Drawing_Triangle.deps.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\bin\Debug\net6.0\Console_Drawing_Triangle.runtimeconfig.json
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\bin\Debug\net6.0\Console_Drawing_Triangle.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\bin\Debug\net6.0\Console_Drawing_Triangle.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.csproj.AssemblyReference.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.AssemblyInfoInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.AssemblyInfo.cs
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\refint\Console_Drawing_Triangle.dll
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.pdb
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\Console_Drawing_Triangle.genruntimeconfig.cache
+C:\Users\nihan\Documents\Programming Studies\Sites\Patika-CSharp-Projects\Kolay_Seviye_Projeler\Console_Drawing_Triangle\obj\Debug\net6.0\ref\Console_Drawing_Triangle.dll
